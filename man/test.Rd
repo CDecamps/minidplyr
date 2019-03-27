@@ -12,3 +12,6 @@ this function print "this is a test"
 \description{
 This function print a test
 }
+\examples{
+test()
+}
